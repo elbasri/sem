@@ -1,0 +1,31 @@
+<div class="affichage">
+<?php 
+$titre=$post['Materiel']['nom'];
+$this->element('meta',array('titre'=>$titre));
+?>
+
+	<div class="infosdemande" >
+		
+			<table >
+				<tr >
+					<td style="width:35%">: <strong></strong>
+					</td>
+					<td style="width:35%">: <strong></strong>
+					</td>
+				</tr>
+
+			</table>	
+<br><h2>Détails de tache:</h2> 
+<?php echo $post['Tache']['infos'];?>
+
+			<table>
+				<tr>
+				<td>
+					<strong><a href="<?=$this->Html->url('/')?>materiels/modifier/<?php echo $post['Materiel']['id']?>" ><img src="<?=$this->Html->url('/')?>img/images/modifier.png" alt="modifier"/></a></strong>
+				</td>
+				<td></td>
+				</tr>
+			</table>								
+	</div>	
+		
+</div>

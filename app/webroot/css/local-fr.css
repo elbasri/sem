@@ -1,0 +1,84 @@
+.banner .i_btn .down_btn{font-size:15px;}
+.top_box .top_div .middle_div{padding:15px 0px 15px 30px;font-size:16px;}
+.top_box .top_div  .right_div p.tit{font-size:24px;}
+.sub_banner2 .txt2 .t1{font-size:18px;}
+.sub_banner2 .tit {font-size:24px;}
+.sub_right_area .sub_right_tit{font-size:10px;}
+.sub_left_area .sub_left_tit{font-size:14px;}
+.nav2 li a span{font-size:12px;}
+#bannerzi ul{margin-top:0px;}
+.banner1{font-size:16px;}
+.banner1a{font-size:14px;}
+.banner2{font-size:16px;}
+.banner2a{font-size:14px;}
+.banner2b{font-size:12px;}
+#aniu{float:left;width:956px;}
+#aniu span{color:#004080;font-weight:bold;font-size:16px;text-decoration:none;line-height:68px;margin-left:20px;}
+#aniu span-a{color:#004080;font-weight:bold;font-size:14px;text-decoration:none;line-height:68px;margin-left:20px;}
+#aniu span:hover{color:#379BFF;}
+#foot{width:956px;background:#124e8d;float:left;}
+#foot p{margin-left:20px;float:left;margin-top:20px;}
+#zuizi{width:700px;float:left;border-left:1px #fff solid;
+margin-top:10px;height:220px;}
+.zui1{width:150px;float:left;}
+.zui1 ul{list-style:none;}
+.zui1 ul li{width:164px;line-height:26px;border-bottom:#FFF solid 1px;}
+.zui1 ul li a{color:#FFF;text-decoration:none;font-size:11px;}
+.zui1 ul li a:hover{color:#666;}
+#zuihou{width:956px;float:left;}
+#zuihou ul{list-style:none;
+margin-top:10px;
+margin-bottom:10px;}
+#zuihou ul li{width:926px;line-height:20px;text-align:center;color:#CCC;
+margin-left:20px;}
+#zuihou ul li a{color:#fff;}
+.sub_right_tit{width:420px;height:35px;line-height:35px;color:#000000;font-size:12px;font-weight:bold;text-align:center;}
+#tuzi ul li{width:200px;float:left;text-align:center;}
+#tuzi ul li a{color:#000;text-decoration:none;font-size:12px;
+font-weight:bold;}
+.yy{margin-left:50px;}
+.tt{margin-left:125px;}
+.ww{margin-left:130px;}
+#homezi li{float:left;width:136px;text-align:center;}
+#homezi li span{color:#000;text-decoration:none;font-size:13px;}
+.home{
+	margin-left:10px;
+	width:80px;}
+
+.download{
+	width:80px;
+	margin-left:10px;}
+	
+.tezheng{
+	width:80px;
+	margin-left:10px;}
+.card{
+	margin-left:10px;
+	width:160px;}	
+.photo{
+	width:120px;
+	margin-left:10px;width:160px;}
+	
+.screen{
+	width:130px;
+
+	margin-left:10px;}
+
+.regi{
+	width:100px;
+	
+	}
+
+.supp{
+	width:70px;
+	
+	margin-left:10px;}
+.blogpost ul li a{font-size:14px;}
+.blogpost ul li{line-height:26px;}
+.blogpost ul .esli{margin-bottom:-1px;}
+.bigtitle{text-align:center; font-size:28px;}
+.bigtitle span{font-size:18px;}
+.reg{font-size:28px; padding:10px 10px;}
+.helpl{float:left; padding-right:5px; border-right:1px dotted #999999; width:435px;}
+.helpr{float:right; padding-left:0px; width:350px; margin-right:90px;}
+.coupon .itit{font-size:12px;}

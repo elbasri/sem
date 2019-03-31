@@ -1,0 +1,20 @@
+tr.row_selected  td{ 
+ background-color: #E2E4FF !important;
+}
+
+.hidden {
+visibility : hidden !important;
+width : 0px !important;
+height : 0px !important;
+
+}
+
+.textright , .decimal , .integer{
+	text-align:right;
+}
+.textcenter .date{
+text-align:center;
+}
+.textleft .date{
+text-align:center;
+}

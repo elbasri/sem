@@ -1,0 +1,136 @@
+ConnectionsW
+[148] 01-29 21:18:07:709: IsRasmanServiceRunning=1
+[148] 01-29 21:18:07:710: IsRasmanServiceRunning=1
+[148] 01-29 21:18:08:748: RasEnumConnectionsW
+[148] 01-29 21:18:08:749: IsRasmanServiceRunning=1
+[148] 01-29 21:18:08:749: IsRasmanServiceRunning=1
+[148] 01-29 21:18:09:802: RasEnumConnectionsW
+[148] 01-29 21:18:09:803: IsRasmanServiceRunning=1
+[148] 01-29 21:18:09:804: IsRasmanServiceRunning=1
+[148] 01-29 21:18:10:837: RasEnumConnectionsW
+[148] 01-29 21:18:10:840: IsRasmanServiceRunning=1
+[148] 01-29 21:18:10:841: IsRasmanServiceRunning=1
+[148] 01-29 21:18:11:896: RasEnumConnectionsW
+[148] 01-29 21:18:11:897: IsRasmanServiceRunning=1
+[148] 01-29 21:18:11:898: IsRasmanServiceRunning=1
+[148] 01-29 21:18:12:960: RasEnumConnectionsW
+[148] 01-29 21:18:12:961: IsRasmanServiceRunning=1
+[148] 01-29 21:18:12:962: IsRasmanServiceRunning=1
+[148] 01-29 21:18:14:013: RasEnumConnectionsW
+[148] 01-29 21:18:14:014: IsRasmanServiceRunning=1
+[148] 01-29 21:18:14:014: IsRasmanServiceRunning=1
+[148] 01-29 21:18:15:068: RasEnumConnectionsW
+[148] 01-29 21:18:15:069: IsRasmanServiceRunning=1
+[148] 01-29 21:18:15:070: IsRasmanServiceRunning=1
+[148] 01-29 21:18:16:134: RasEnumConnectionsW
+[148] 01-29 21:18:16:135: IsRasmanServiceRunning=1
+[148] 01-29 21:18:16:136: IsRasmanServiceRunning=1
+[148] 01-29 21:18:17:203: RasEnumConnectionsW
+[148] 01-29 21:18:17:204: IsRasmanServiceRunning=1
+[148] 01-29 21:18:17:205: IsRasmanServiceRunning=1
+[148] 01-29 21:18:18:254: RasEnumConnectionsW
+[148] 01-29 21:18:18:255: IsRasmanServiceRunning=1
+[148] 01-29 21:18:18:256: IsRasmanServiceRunning=1
+[148] 01-29 21:18:19:296: RasEnumConnectionsW
+[148] 01-29 21:18:19:297: IsRasmanServiceRunning=1
+[148] 01-29 21:18:19:298: IsRasmanServiceRunning=1
+[148] 01-29 21:18:20:344: RasEnumConnectionsW
+[148] 01-29 21:18:20:345: IsRasmanServiceRunning=1
+[148] 01-29 21:18:20:346: IsRasmanServiceRunning=1
+[148] 01-29 21:18:21:399: RasEnumConnectionsW
+[148] 01-29 21:18:21:399: IsRasmanServiceRunning=1
+[148] 01-29 21:18:21:400: IsRasmanServiceRunning=1
+[148] 01-29 21:18:22:451: RasEnumConnectionsW
+[148] 01-29 21:18:22:453: IsRasmanServiceRunning=1
+[148] 01-29 21:18:22:454: IsRasmanServiceRunning=1
+[148] 01-29 21:18:23:511: RasEnumConnectionsW
+[148] 01-29 21:18:23:512: IsRasmanServiceRunning=1
+[148] 01-29 21:18:23:513: IsRasmanServiceRunning=1
+[148] 01-29 21:18:24:576: RasEnumConnectionsW
+[148] 01-29 21:18:24:578: IsRasmanServiceRunning=1
+[148] 01-29 21:18:24:579: IsRasmanServiceRunning=1
+[148] 01-29 21:18:25:647: RasEnumConnectionsW
+[148] 01-29 21:18:25:648: IsRasmanServiceRunning=1
+[148] 01-29 21:18:25:649: IsRasmanServiceRunning=1
+[148] 01-29 21:18:26:715: RasEnumConnectionsW
+[148] 01-29 21:18:26:717: IsRasmanServiceRunning=1
+[148] 01-29 21:18:26:718: IsRasmanServiceRunning=1
+[148] 01-29 21:18:27:781: RasEnumConnectionsW
+[148] 01-29 21:18:27:782: IsRasmanServiceRunning=1
+[148] 01-29 21:18:27:783: IsRasmanServiceRunning=1
+[148] 01-29 21:18:28:849: RasEnumConnectionsW
+[148] 01-29 21:18:28:851: IsRasmanServiceRunning=1
+[148] 01-29 21:18:28:852: IsRasmanServiceRunning=1
+[148] 01-29 21:18:29:914: RasEnumConnectionsW
+[148] 01-29 21:18:29:916: IsRasmanServiceRunning=1
+[148] 01-29 21:18:29:917: IsRasmanServiceRunning=1
+[148] 01-29 21:18:30:976: RasEnumConnectionsW
+[148] 01-29 21:18:30:977: IsRasmanServiceRunning=1
+[148] 01-29 21:18:30:978: IsRasmanServiceRunning=1
+[148] 01-29 21:18:32:041: RasEnumConnectionsW
+[148] 01-29 21:18:32:042: IsRasmanServiceRunning=1
+[148] 01-29 21:18:32:043: IsRasmanServiceRunning=1
+[148] 01-29 21:18:33:108: RasEnumConnectionsW
+[148] 01-29 21:18:33:109: IsRasmanServiceRunning=1
+[148] 01-29 21:18:33:110: IsRasmanServiceRunning=1
+[148] 01-29 21:18:34:177: RasEnumConnectionsW
+[148] 01-29 21:18:34:178: IsRasmanServiceRunning=1
+[148] 01-29 21:18:34:179: IsRasmanServiceRunning=1
+[148] 01-29 21:18:35:244: RasEnumConnectionsW
+[148] 01-29 21:18:35:245: IsRasmanServiceRunning=1
+[148] 01-29 21:18:35:246: IsRasmanServiceRunning=1
+[148] 01-29 21:18:36:311: RasEnumConnectionsW
+[148]Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(2864)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(181)][Enter QueryNewVersion!]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(432)][GetSpecifiedFilePath: C:/Program Files/Modem HDM EC156/UpdateDog/UpdateInfo.dat]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(228)][Updateinfo.dat content:
+ <?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <server>
+        <customdirectory>WANA_C649</customdirectory>
+    </server>
+</root>
+
+]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(264)][LiveUpdate Not Use SSL.]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(193)][Server IP: , Port: 0, SSL: 0]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(466)][Request new version url: /UrlCommand/CheckNewVersion.aspx]-->
+<!--[2015-01-29 21:18:09][Src\PublicFunction.cpp(432)][GetSpecifiedFilePath: C:/ProgramData/Modem HDM EC156/OnlineUpdate/RuleParam.dat]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(451)][RuleParam.dat content is:
+ 2923BE84E16CD6AE203D1DB3A49ABAA2D3BAF467DA4496488B6C5190C44F1DBF04D9DA2518C06F437E079F7A895AC5CCD6D894F5F70D2E6A9BCDD49D0CD10C9693FFBCA930D9D7F2DAAB58B3852B2922503BE49442F9B8478488F970B918D375016DC22E8A59E7DC950770E1CF4EEEEEBD1F673450812F4FE6FBFB2C3FC19430D2280C6555FE9D2964F72579D8CAFF5C59328751161826620BA03FC8FFE976DBC309A3385523FFACC8939AFB14D22638A526EF653B1C0DE04D66432B1330AAEA9BEDAC0CCC22347778784819CD04C721286B5371D51DDED05B9878BAD41D3C50059F72120A452AD37C008FE2331967FDCE5999E25E201DC0F71A2367B6B7C13D2086EBDFEDE0F1301BAE112FF57B8EAB0AF9A36546C7954AC150EAFA210401E4BE2FB3E79690A84B2CF9C47E68F8269B529CA301E0FFEDA4078E4DD13A1F59D7ECED1D733743593246065EC975645E1CC5DDB454A27EB4D19EA89353D68C46F8BBD415997B5C5E875F17772C4ECE9597C8B6DA671A377CCCC41372F9D2F08ACC93086EE8DAA227A0FEAB4CB5B1EFF8284099CCA9B947CE87553D666C986C855A35E2B91C2CA4ACDA3EE4DEBFC6DDF8F076219320265B3EA55B9B67724DE1AFEBA9CD664B94DDCB9CA01FC1E5287E225FCF2FE65B27AAE7B638FC83B7A20125FFB79CB9E60ED37E74AF737492B172880761F]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(974)][IsTestVersion is enter]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(1000)][IsTestVersion is Leave]-->
+<!--[2015-01-29 21:18:09][Src\QueryNewVersion.cpp(1413)][Query Finished,Error Code is 3]-->
+<!--[2015-01-29 21:18:09][Src\LiveUpdate.cpp(841)][----------------------End Log-----------------------------------]-->
+----------------------Start Log---------------------------------
+<!--[2015-01-29 21:19:09][Src\LiveUpdate.cpp(268)][DuplicateName is C:/ProgramData/Modem HDM EC156/OnlineUpdate/LiveUpd.exe]-->
+<!--[2015-01-29 21:19:09][Src\LiveUpdate.cpp(841)][----------------------End Log-----------------------------------]-->
+----------------------Start Log---------------------------------
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2864)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2864)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2864)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(2872)][network is connected!]-->
+<!--[2015-01-29 21:19:09][Src\QueryNewVersion.cpp(181)][Enter QueryNewVersion!]-->
+<!--[2015-01-29 21:19:09][Src\PublicFunction.cpp(432)][GetSpecifiedFilePath: C:/Program Files/Modem HDM EC156/UpdateDog/UpdateInfo.dat]-->
+ 01-29 21:18:36:312: IsRasmanServiceRunning=1
+[148] 01-29 21:18:36:313: IsRasmanServiceRunning=1
+[148] 01-29 21:18:37:378: RasEnumConnectionsW
+[148] 01-29 21:18:37:379: IsRasmanServiceRunning=1
+[148] 01-29 21:18:37:380: IsRasmanServiceRunning=1
+[148] 01-29 21:18:38:441: RasEnumConnectionsW
+[148] 01-29 21:18:38:444: IsRasmanServiceRunning=1
+[148] 01-29 21:18:38:445: IsRasmanServiceRunning=1
+[148] 01-29 21:18:39:511: RasEnumConnectionsW
+[148] 01-29 21:18:39:512: IsRasmanServiceRunning=1
+[148] 01-29 21:18:39:513: IsRasmanServiceRunning=1
+[148] 01-29 21:18:40:579: RasEnumConnectionsW
+[148] 01-29 21:18:40:581: IsRasmanServiceRunn
